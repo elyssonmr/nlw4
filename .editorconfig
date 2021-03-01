@@ -11,5 +11,5 @@ charset = utf-8
 trim_trailing_whitespace = false
 insert_final_newline = true
 
-[*.{ts,json}]
+[*.{ts,json,hbs}]
 indent_size = 2
